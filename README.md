@@ -34,5 +34,5 @@ npm install
 
 Rode o código com: 
 ```
-npm run start:dev 
+npm run start
 ```
